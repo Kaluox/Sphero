@@ -1,0 +1,106 @@
+{
+  "_args": [
+    [
+      "sphero",
+      "C:\\sphero-rehab"
+    ]
+  ],
+  "_from": "sphero@latest",
+  "_id": "sphero@0.8.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/sphero",
+  "_nodeVersion": "4.2.2",
+  "_npmOperationalInternal": {
+    "host": "packages-5-east.internal.npmjs.com",
+    "tmp": "tmp/sphero-0.8.3.tgz_1456185686231_0.22199847898446023"
+  },
+  "_npmUser": {
+    "email": "ron@hybridgroup.com",
+    "name": "deadprogram"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "sphero",
+    "raw": "sphero",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/sphero/-/sphero-0.8.3.tgz",
+  "_shasum": "0cc90b7a92aeb825a576adcefd66b82e793ca779",
+  "_shrinkwrap": null,
+  "_spec": "sphero",
+  "_where": "C:\\sphero-rehab",
+  "author": {
+    "name": "Orbotix Inc."
+  },
+  "bugs": {
+    "url": "https://github.com/orbotix/sphero.js/issues"
+  },
+  "dependencies": {
+    "browser-serialport": "2.0.2"
+  },
+  "description": "Sphero.js",
+  "devDependencies": {
+    "browserify": "10.2.3",
+    "chai": "2.3.0",
+    "eslint": "0.22.1",
+    "grunt": "0.4.5",
+    "mocha": "2.2.5",
+    "sinon": "1.14.1",
+    "sinon-chai": "2.7.0",
+    "uglify-js": "2.4.23"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "0cc90b7a92aeb825a576adcefd66b82e793ca779",
+    "tarball": "http://registry.npmjs.org/sphero/-/sphero-0.8.3.tgz"
+  },
+  "gitHead": "c9d5e7cce50fa666585482185aff9320672eeb1d",
+  "homepage": "http://www.sphero.com/",
+  "keywords": [
+    "robot",
+    "robots",
+    "robotics",
+    "hardware",
+    "sphero",
+    "spherojs",
+    "sphero-js",
+    "orbotix",
+    "ollie",
+    "bb8",
+    "bb-8",
+    "sprk"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "ron@hybridgroup.com",
+      "name": "deadprogram"
+    },
+    {
+      "email": "ross@orbotix.com",
+      "name": "rossingram"
+    },
+    {
+      "email": "r@orbotix.com",
+      "name": "sphero"
+    }
+  ],
+  "name": "sphero",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orbotix/sphero.js.git"
+  },
+  "scripts": {},
+  "version": "0.8.3"
+}
